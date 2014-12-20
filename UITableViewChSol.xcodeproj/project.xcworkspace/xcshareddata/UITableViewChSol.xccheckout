@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DCD55D5B-A3C0-4346-A555-5C09B675DBD1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>UITableViewChSol</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8BA92F1B753C52DB0E1D0C6347F8B9074E1677DE</key>
+		<string>https://github.com/ohadya/UITableViewChSol.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>UITableViewChSol.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8BA92F1B753C52DB0E1D0C6347F8B9074E1677DE</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ohadya/UITableViewChSol.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8BA92F1B753C52DB0E1D0C6347F8B9074E1677DE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8BA92F1B753C52DB0E1D0C6347F8B9074E1677DE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>UITableViewChSol</string>
+		</dict>
+	</array>
+</dict>
+</plist>

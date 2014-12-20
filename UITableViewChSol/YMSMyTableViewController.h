@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  YMSMyTableViewController.h
 //  UITableViewChSol
 //
 //  Created by admin on 2014-12-20.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface YMSMyTableViewController : UITableViewController
 
 @end
-
